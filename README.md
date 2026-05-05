@@ -73,6 +73,12 @@ English:
 ### Requirements | 依赖
 
 ```bash
+python -m pip install -r requirements.txt
+```
+
+或：
+
+```bash
 python -m pip install python-docx lxml
 ```
 
